@@ -1,0 +1,76 @@
+/*
+ Theme Name:   mymedi-child
+ Theme URI:    http://localhost/wordpress-all-projects/RML%20Pathology/wp-admin/themes.php
+ Description:  mymedi-child theam
+ Author:       Anshul Mihsra
+ Template:    mymedi
+ Version:      1.o
+ Text Domain:  mymedi-child
+*/
+
+
+
+
+.coldiv{
+    float: left;
+    min-height: 80px;
+    margin-left: 80px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.coldiv2{
+    float: left;
+    min-height: 80px;
+    margin-left: 60px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 18px;
+}
+
+.disordersimg{
+    width: 110px;
+}
+
+.disordersimg2{
+    width: 100px;
+}
+.headings{
+    margin-left: 400px;
+}
+
+.diabetes-packages{
+    min-height: 200px;
+    min-width: 270px;
+    margin-left: 20px;
+    border: 1px solid black;
+    border-radius: 8px;
+    float: left;
+}
+
+.div1{
+    border: 1px solid black;
+    border-radius: 10px;
+    float: left;
+    margin-left: 10px;
+    padding: 3px;
+    padding-left: 15px;
+}
+.div2{
+    border: 1px solid black;
+    border-radius: 10px;
+    float: left;
+    background: blue;
+    color: white;
+    padding: 3px;
+    margin-left: 7px;
+    padding-left: 15px;
+}
+.h5diabteas{
+    margin-left: 10px;
+    color: #0d86c6;
+}
+.habbitsheading{
+  
+    float: left;
+    margin-left: 90px;
+}
